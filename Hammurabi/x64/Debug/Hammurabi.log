@@ -1,0 +1,9 @@
+﻿  Hammurabi.cpp
+  HammurabiRound.cpp
+C:\Users\anana\Downloads\Telegram Desktop\Algorithms\Hammurabi\HammurabiRound.cpp(43,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\anana\Downloads\Telegram Desktop\Algorithms\Hammurabi\HammurabiRound.cpp(87,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+  Random.cpp
+C:\Users\anana\Downloads\Telegram Desktop\Algorithms\Hammurabi\Random.cpp(6,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Hammurabi.vcxproj -> C:\Users\anana\Downloads\Telegram Desktop\Algorithms\x64\Debug\Hammurabi.exe

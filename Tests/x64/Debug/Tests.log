@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  DynamicArrayTests.cpp
+  QuickSortTests.cpp
+C:\Users\anana\Downloads\Telegram Desktop\Algorithms\Algorithms\QuickSort\QuickSort.cpp(83,22): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\anana\Downloads\Telegram Desktop\Algorithms\Algorithms\QuickSort\QuickSort.cpp(8,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "int QuickSort::getLength<T>(T *,T *)"
+          with
+          [
+              T=int
+          ]
+C:\Users\anana\Downloads\Telegram Desktop\Algorithms\Tests\QuickSortTests.cpp(76,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void QuickSort::sort<int,QuickSortTests::QuickSortTests::TestDescending::<lambda_7d83d05d7b9eb8f01e70ce06ba87cd4e>>(T *,T *,Compare)"
+          with
+          [
+              T=int,
+              Compare=QuickSortTests::QuickSortTests::TestDescending::<lambda_7d83d05d7b9eb8f01e70ce06ba87cd4e>
+          ]
+  Создание кода...
+     Создается библиотека C:\Users\anana\Downloads\Telegram Desktop\Algorithms\x64\Debug\Tests.lib и объект C:\Users\anana\Downloads\Telegram Desktop\Algorithms\x64\Debug\Tests.exp
+  Tests.vcxproj -> C:\Users\anana\Downloads\Telegram Desktop\Algorithms\x64\Debug\Tests.dll
